@@ -1,3 +1,5 @@
 [
-  { "profession" : "baker" }
+  { "profession" : "baker" },
+  { "profession" : "lawyer" },
+  { "profession" : "computer programmer" }
 ]

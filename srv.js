@@ -31,6 +31,11 @@ function page(h,j,k) {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>JSON Demo</title>
+  <style>
+  li {
+    padding: 12px;
+  }
+  </style>
 </head>
 <body>
   <h1 id="head"></h1>
